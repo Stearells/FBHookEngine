@@ -26,6 +26,7 @@ declare function Install(pSource as any ptr, pDestination as any ptr) as boolean
 ' Result: Method returns true if the hook is successfully uninstalled or false if hook not installed now.
 declare function Uninstall() as uint_auto ptr
 
+
 ' Check if hook is installed.
 ' Method returns true if the hook is installed, else false.
 declare function IsInstalled() as boolean
