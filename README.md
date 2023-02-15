@@ -1,6 +1,6 @@
 # FBHookEngine
 HookEngine FreeBASIC implementation
 
-```bas
+```fbc
 dim a as long
 ```
