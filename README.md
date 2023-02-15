@@ -1,4 +1,4 @@
-HookEngine FreeBASIC implementation
+HookEngine implementation in FreeBASIC
 --
 
 HookEngine is a library for hooking windows API calls such as MS Detours.
